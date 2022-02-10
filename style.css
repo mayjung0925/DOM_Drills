@@ -1,0 +1,23 @@
+.h1{
+    color:blue;
+}
+
+.h2{
+    color:chartreuse;
+}
+.h3{
+    color:blueviolet;
+}
+.h4{
+    color: darkgoldenrod;
+}
+.h5{
+    color: deeppink;
+}
+.h6{
+    color:rgb(39, 41, 37)
+}
+
+.h1,.h2,h3,h4,h5,h6,li:hover{
+    cursor: pointer;
+}
